@@ -5,14 +5,14 @@
 
 
 
-In This Project we will achieve these following points:
-  1 - Setup HTML-CSS Linters.
-  2 - Add a Descriptive README file.
-  3 - Add a .gitignore file.
-  4 - Add 1 HTML file.
-  5 - Add 1 CSS file.
-  6 - Add test.md file which is ignored by git.
-  7 - Open a pull request.  
+In This Project we will achieve the following points:
+   * Setup HTML-CSS Linters.
+   * Add a Descriptive README file.
+   * Add a .gitignore file.
+   * Add 1 HTML file.
+   * Add 1 CSS file.
+   * Add test.md file which is ignored by git.
+   * Open a pull request.  
 
 ## Built With
 
